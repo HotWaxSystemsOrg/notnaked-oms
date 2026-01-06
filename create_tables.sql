@@ -1,6 +1,3 @@
--- Universal Data Model (UDM) compliant schema for NotNaked OMS
--- Order Management System (OMS)
-
 -- =========================
 -- ORDER HEADER
 -- =========================
