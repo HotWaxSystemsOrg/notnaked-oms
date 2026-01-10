@@ -19,3 +19,4 @@ https://shopify.dev/docs/api/admin-rest/2024-01/resources/order
 
 Note: 
 This task only includes writing DDL to create entities in MySQL. This task does not include writing any code or API calls.
+
