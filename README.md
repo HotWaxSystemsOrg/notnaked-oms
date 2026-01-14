@@ -12,7 +12,7 @@ You are part of a team developing OMS.You are assigned three tasks.
 2. Prepare design document with details of Shopify Order model mapping with UDM/OFBiz Order data model. 
 3. Write pseudo code for parsing Shopify API response and then storing it in UDM/OFBiz model.
 4. Test your pseudo code for all the sample JSON provided in `shopify-samples/orders-json` folder.
-
+ 
 
 References:
 https://shopify.dev/docs/api/admin-rest/2024-01/resources/order
